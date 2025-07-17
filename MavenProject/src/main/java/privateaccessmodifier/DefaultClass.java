@@ -1,4 +1,4 @@
-package privateaccessmodifier;
+/*package privateaccessmodifier;
 
 import defaultaccessmodifier.ParentClass;
 
@@ -10,3 +10,4 @@ public class DefaultClass {
 	}
 
 }
+*/

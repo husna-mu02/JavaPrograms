@@ -1,4 +1,4 @@
-package privateaccessmodifier;
+/*package privateaccessmodifier;
 
 public class AccessModifier {
 
@@ -9,3 +9,4 @@ public class AccessModifier {
 	}
 
 }
+*/
