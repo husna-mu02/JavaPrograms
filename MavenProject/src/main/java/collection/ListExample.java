@@ -29,7 +29,7 @@ public class ListExample {
 		System.out.println(l.contains("green"));
 		
 		l.add("brown");
-		l.add("brown");//duplicates yellow added twice
+		l.add("brown");//duplicates brown added twice
 		System.out.println(l);
 		
 		System.out.println(l.indexOf("green"));//prints index of green

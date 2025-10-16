@@ -7,7 +7,7 @@ import java.util.List;
 public class IteratorExample {
 
 	public static void main(String[] args) {
-		List <String> s = new ArrayList<String>();
+		List <String> s = new ArrayList <String>();
 		s.add("Apple");
 		s.add("Mango");
 		s.add("Watermelon");
